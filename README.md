@@ -1,10 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Rob C.
 
-I’m Rob C., a software engineer passionate about building scalable, AI-powered solutions. I combine strong computer science foundations with hands-on business experience, having managed e-commerce platforms across Shopee, eBay, and Lazada.  
+🎯 Software Engineer | AI Enthusiast | Business & E-commerce Background  
 
-- 🔭 Working on projects that merge AI and business automation  
-- 🌱 Learning advanced AI integrations, cloud technologies, and full-stack development  
-- 👯 Open to collaborations on web apps, data-driven solutions, and AI platforms  
-- 💬 Ask me about software engineering, AI, and e-commerce technology  
-- 📫 Reach me: rob.camarista@gmail.com  
-- ⚡ Fun fact: I started freelancing in data research in 2011 and now build tech solutions that scale businesses
+I’m passionate about building software solutions that combine technology and business insights. I have experience managing online platforms, freelancing in data research, and now focusing on AI-powered projects and software development.
+
+---
+
+## 🔧 GitHub Stats
+
+![Robelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=robdev37&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robdev37&layout=compact&theme=radical)
+
+---
+
+## 🚀 Featured Project
+
+### [RobStock](https://github.com/robdev37/RobStock)  
+A project focused on [brief description of what RobStock does—e.g., tracking stock data, managing inventory, etc.].  
+
+---
+
+## 📫 Connect with Me
+
+- Email: rob.camarista@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/robelynjoydicon/)
