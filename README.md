@@ -1,26 +1,49 @@
-# Hi there 👋 I'm Rob C.
+# 👋 Hi, I'm Robelyn (Rob Dev)
 
-🎯 Software Engineer | AI Enthusiast | Business & E-commerce Background  
+**Backend & Automation Engineer | Python • SQL • Systems Development**  
+Computer Science graduate building backend applications, automation tools, and data-driven workflows.
 
-I’m passionate about building software solutions that combine technology and business insights. I have experience managing online platforms, freelancing in data research, and now focusing on AI-powered projects and software development.
+I have hands-on experience designing internal tools and automating business systems — such as inventory tracking, data cleaning scripts, and reporting dashboards. I enjoy solving real problems through clean logic, data structuring, and automation.
 
----
+Currently focused on:
+- Python backend development (Flask/FastAPI)
+- Workflow automation & system logic
+- SQL & database fundamentals
+- API integrations & data pipelines
+- Cloud foundations (AWS – in progress)
 
-## 🔧 GitHub Stats
-
-![Robelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=robdev37&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robdev37&layout=compact&theme=radical)
-
----
-
-## 🚀 Featured Project
-
-### [RobStock](https://github.com/robdev37/RobStock)  
-A project focused on [brief description of what RobStock does—e.g., tracking stock data, managing inventory, etc.].  
+I work with an engineer mindset: understand the process → design the logic → build the system → iterate and improve.
 
 ---
 
-## 📫 Connect with Me
+### 🧰 Tech Stack
+**Languages:** Python, SQL  
+**Tools:** Git & GitHub, Excel/Sheets Automations, APIs  
+**Learning:** Flask / FastAPI, AWS, CI/CD Fundamentals  
 
-- Email: rob.camarista@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/robelynjoydicon/)
+---
+
+### 📂 Featured Projects
+
+🚧 **Python Inventory & Automation Toolkit** (in progress)  
+Scripts and mini-tools for data processing, inventory logic, and automated reporting.
+
+🧠 **Data Cleaning & Reporting Automation**  
+Python utilities to transform raw files into structured outputs and dashboards.
+
+💡 **Personal Workflow Automation Scripts**  
+Automation snippets for file processing, data tagging, and operations support.
+
+> More projects coming — building steadily and documenting learning along the way.
+
+---
+
+### 📈 Current Goals
+- Build a strong Python backend project portfolio  
+- Deploy applications using cloud services (AWS)  
+- Prepare for software engineering roles in PH & Japan  
+
+---
+
+### 🤝 Connect
+Open to collaboration, learning with others, and contributing to backend & automation projects!
