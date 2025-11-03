@@ -1,49 +1,16 @@
-# 👋 Hi, I'm Robelyn (Rob Dev)
+# Hi, I'm Rob 👋  
 
-**Backend & Automation Engineer | Python • SQL • Systems Development**  
-Computer Science graduate building backend applications, automation tools, and data-driven workflows.
+Software Engineer | Python Backend Developer | SQL & Data-Driven Apps  
 
-I have hands-on experience designing internal tools and automating business systems — such as inventory tracking, data cleaning scripts, and reporting dashboards. I enjoy solving real problems through clean logic, data structuring, and automation.
+I build clean, reliable backend software — from inventory systems to business tools.  
+Currently enhancing my full-stack skills while building real-world apps with Python & PostgreSQL.  
 
-Currently focused on:
-- Python backend development (Flask/FastAPI)
-- Workflow automation & system logic
-- SQL & database fundamentals
-- API integrations & data pipelines
-- Cloud foundations (AWS – in progress)
+💡 Interests: Backend Engineering, Databases, Cloud, Automation  
+🛠️ Tech: Python, FastAPI, Django, SQLite/PostgreSQL, Docker, Git  
 
-I work with an engineer mindset: understand the process → design the logic → build the system → iterate and improve.
+🚀 Current Projects:
+- Smart POS & Inventory System with AI Forecasting
+- E-commerce Automation Tools
+- API-powered Business Management App
 
----
-
-### 🧰 Tech Stack
-**Languages:** Python, SQL  
-**Tools:** Git & GitHub, Excel/Sheets Automations, APIs  
-**Learning:** Flask / FastAPI, AWS, CI/CD Fundamentals  
-
----
-
-### 📂 Featured Projects
-
-🚧 **Python Inventory & Automation Toolkit** (in progress)  
-Scripts and mini-tools for data processing, inventory logic, and automated reporting.
-
-🧠 **Data Cleaning & Reporting Automation**  
-Python utilities to transform raw files into structured outputs and dashboards.
-
-💡 **Personal Workflow Automation Scripts**  
-Automation snippets for file processing, data tagging, and operations support.
-
-> More projects coming — building steadily and documenting learning along the way.
-
----
-
-### 📈 Current Goals
-- Build a strong Python backend project portfolio  
-- Deploy applications using cloud services (AWS)  
-- Prepare for software engineering roles in PH & Japan  
-
----
-
-### 🤝 Connect
-Open to collaboration, learning with others, and contributing to backend & automation projects!
+📬 Email me: ron.camarista@gmail.com
